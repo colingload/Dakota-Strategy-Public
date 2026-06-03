@@ -1,0 +1,24 @@
+# OS / sync clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+~$*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local backups
+*.bak
+*.orig
+
+# Node (in case any tooling sneaks in later)
+node_modules/
+npm-debug.log*
+
+# Local-only env
+.env
+.env.local
